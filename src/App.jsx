@@ -1,8 +1,9 @@
-import ColorPicker from './Components/ColorPicker/ColorPicker'
+import ToDoList from './Components/ToDoList/ToDoList'
+
 function App() {
 
   return <>
-    <ColorPicker/>
+    <ToDoList/>
   </>;
 }
 
